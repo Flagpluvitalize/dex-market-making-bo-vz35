@@ -1,4 +1,4 @@
-# 
+# smart Automation Script for dex market making bot | MEV-strategies + gas-optimization offers the most advanced dex market making bot, with MEV-strategies and gas-optimization.
 
 
 
